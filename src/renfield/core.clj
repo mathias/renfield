@@ -12,7 +12,7 @@
               (task-completed? task)
               (task-has-subtask? task)
               (task-can-be-handled-by-renfield? task))
-         (create-candidate-goal :suggest-renfield-commence task)))
+         (create-candidate-goal :suggest-renfield-commence-subtask task)))
 
 (defplan notify-user-of-potential-syenrgy
   [task]
