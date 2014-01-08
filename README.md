@@ -1,10 +1,14 @@
 # renfield
 
-A Clojure library designed to ... well, that part is up to you.
+"...thou art my thrall and instrument."
 
 ## Usage
 
-FIXME
+Not ready for prime time yet.
+
+## References
+
+* [Like an Intuitive and Courteous Butler: A Proactive Personal Agent for Task Management](http://www.ai.sri.com/~nysmith/papers/n65.pdf)
 
 ## License
 
